@@ -1,4 +1,4 @@
-from task_scheduler import Solution
+from task_scheduler_min_heap import Solution
 
 # Create an instance of the Solution class
 solution = Solution()
